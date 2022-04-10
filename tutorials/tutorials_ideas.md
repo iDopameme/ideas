@@ -4,3 +4,4 @@
 - [ ] Obtaining certification
 - [x] Land first official role
 - [ ] Become debt free
+- [ ] Blockchains with BASIC
